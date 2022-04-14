@@ -23,7 +23,9 @@
   <img align="center" alt="Gu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
   
   ##
-  ![Snake animation](https://github.com/GustavoHenriqueDEV/GustavoHenriqueDEV/blob/output/github-contribution-grid-snake.svg)
+
+   ![Snake animation](https://github.com/GustavoHenriqueDEV/GustavoHenriqueDEV/blob/output/github-contribution-grid-snake.svg)
+
 
   
 </div>
