@@ -9,9 +9,9 @@
 
 ##
 <a href="https://github.com/GustavoHenriqueDEV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueDEV&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueDEV&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueDEV&layout=compact&langs_count=7&theme=aura"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueDEV&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
@@ -24,7 +24,7 @@
   
   ##
 
-  ![snake gif](https://github.com/GustavoHenriqueDEV/GustavoHenriqueDEV/blob/output/github-contribution-grid-snake.svg)
+  
 
 
   
