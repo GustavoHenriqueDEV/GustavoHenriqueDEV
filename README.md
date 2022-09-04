@@ -5,7 +5,7 @@
 - 🔭 Estou estudando programação Fronte-End e Back-end no Estituto Federal Catarinense.
 - 🌱 Estou atuando com HTML, CSS Javascript Python Vue, Vue-tify e Firebase
 - 👯 Procuro obter boas experiências em minha área
-- ⚡ Eu amo programar!! ❤❤
+
 
 ##
 <a href="https://github.com/GustavoHenriqueDEV">
