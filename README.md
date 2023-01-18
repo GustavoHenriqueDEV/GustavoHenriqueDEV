@@ -10,6 +10,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueDEV&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
+  <p>Linguagens Favoritas <p/>
   <img align="center" alt="Gu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
