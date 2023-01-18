@@ -1,9 +1,6 @@
 
 
 
-- 🔭 Estou estudando programação Fronte-End e Back-end no Estituto Federal Catarinense.
-- 🌱 Conhecimento HTML, CSS, JavasCript Python Vue e Firebase.
-- 👯 Procuro obter boas experiências em minha área.
 
 
 ##
