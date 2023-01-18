@@ -1,5 +1,4 @@
 
-### Opaa, olá...
 
 
 - 🔭 Estou estudando programação Fronte-End e Back-end no Estituto Federal Catarinense.
