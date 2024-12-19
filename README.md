@@ -9,7 +9,12 @@
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueDEV&layout=compact&langs_count=7&theme=aura"/>
 </div>
+
+<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+
 <div style="display: inline_block"><br>
+
+  
   <img align="center" alt="gu-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
