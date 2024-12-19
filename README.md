@@ -1,4 +1,5 @@
 
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 
 
@@ -6,7 +7,6 @@
 ##
 <a href="https://github.com/GustavoHenriqueDEV">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueDEV&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueDEV&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
